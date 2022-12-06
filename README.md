@@ -11,4 +11,11 @@ Merge the two lists in a one sorted list. The list should be made by splicing to
 
 Return the head of the merged linked list.
 
+## Climbing Stairs
+Task from leetcode.com
+
+**Task**
  
+You are climbing a staircase. It takes `n` steps to reach the top.
+
+Each time you can either climb `1` or `2` steps. In how many distinct ways can you climb to the top?
