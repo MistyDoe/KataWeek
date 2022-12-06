@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wWwdit3GGi/b6pR8CnFm0PsR+1ieQ0a40UnPYE9OzsVh0nIqnNlPpaNH+fSs21aKA2Vd0JiZ26bgTy8wg51ziQ==",
+  "dgSpecHash": "jtpsYRYuFKTuQy3uQU6+Eym2pERBtNxbKcBnak+2mmh9fnR0yZ8nDFJpDZdyQL2Zvk0XETMS7iE0TCBifg4yEw==",
   "success": true,
   "projectFilePath": "C:\\Users\\migli\\source\\repos\\KataWeek\\MerdgeSortedLists\\MerdgeSortedLists.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\migli\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\migli\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\migli\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
   "logs": []
 }
