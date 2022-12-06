@@ -1,5 +1,5 @@
 # KataWeek
-A week to eork on katas and learn alorithms 
+A week to work on katas and learn alorithms 
 ## Medge Sorted Lists 
 Task from leetcode.com
 
