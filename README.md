@@ -70,3 +70,15 @@ For example, given questions = [[3, 2], [4, 3], [4, 4], [2, 5]]:
 If question 0 is solved, you will earn 3 points but you will be unable to solve questions 1 and 2.
 If instead, question 0 is skipped and question 1 is solved, you will earn 4 points but you will be unable to solve questions 2 and 3.
 Return the maximum points you can earn for the exam.
+
+## Check if Matrix Is X-Matrix
+Task from leetcode.com
+
+**Task**
+A square matrix is said to be an X-Matrix if both of the following conditions hold:
+
+All the elements in the diagonals of the matrix are non-zero.
+All other elements are 0.
+Given a 2D integer array `grid` of size `n x n` representing a square matrix, return `true` if `grid` is an X-Matrix. Otherwise, return `false`.
+
+ 
