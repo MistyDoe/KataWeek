@@ -1,5 +1,5 @@
-# KataWeek
-A week to work on katas and learn alorithms 
+# KataRepo
+A repo to work on katas and learn algorithms 
 ## Medge Sorted Lists 
 Task from leetcode.com
 
